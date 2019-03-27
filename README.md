@@ -30,10 +30,6 @@ When it finishes cloning the files, open the index.html file on your browser of 
 
 ## Getting Started
 
-###### Live
-
-Point your browser to http://retrofrogger.com
-
 ###### Local
 
 ###### 1. Clone this repo
